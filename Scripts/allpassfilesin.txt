@@ -1,0 +1,17 @@
+passinfb.rw
+passinnetflix.rw
+passinakamai.rw
+passingoogley.rw
+passinapple.rw
+passindropbox.rw
+passintwitch.rw
+passinedgecastv.rw
+passinmsft.rw
+passinfastly.rw
+passinstackpath.rw
+passinreflected.rw
+passinlimelight.rw
+passincloudflare.rw
+passinamazon.rw
+passinlevel.rw
+passinrokla.rw

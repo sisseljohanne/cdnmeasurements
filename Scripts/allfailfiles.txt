@@ -1,0 +1,4 @@
+failinrokla.rw
+failoutrokla.rw
+failextdstrokla.rw
+failextsrcrokla.rw

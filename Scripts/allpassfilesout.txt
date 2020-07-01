@@ -1,0 +1,17 @@
+passoutfb.rw
+passoutnetflix.rw
+passoutakamai.rw
+passoutgoogley.rw
+passoutapple.rw
+passoutdropbox.rw
+passouttwitch.rw
+passoutedgecastv.rw
+passoutmsft.rw
+passoutfastly.rw
+passoutstackpath.rw
+passoutreflected.rw
+passoutlimelight.rw
+passoutcloudflare.rw
+passoutamazon.rw
+passoutlevel.rw
+passoutrokla.rw
